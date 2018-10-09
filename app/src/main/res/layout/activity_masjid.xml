@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MasjidActivity">
+
+    <include
+        android:id="@+id/content_graber"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/shadow"
+        layout="@layout/content_graber"/>
+
+    <View
+        android:id="@+id/shadow"
+        android:background="@drawable/shadow"
+        android:layout_above="@id/bottom_navbar"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"/>
+
+<com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
+    android:id="@+id/bottom_navbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_marginBottom="0dp"
+    app:menu="@menu/navigation"
+    app:itemTextColor="@color/color_resource"
+    app:itemIconTint="@color/color_resource"
+    style="@style/bnve_white_bg"/>
+
+</RelativeLayout>

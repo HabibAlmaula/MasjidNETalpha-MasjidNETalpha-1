@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MasjidNET</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Lanjut</string>
+    <string name="skip">Lewati</string>
+    <string name="start">Mulai</string>
+
+    <string name="slide_1_title">MasjidNET</string>
+    <string name="slide_1_desc">Selamat Datang\n MasjidNET adalah app yang disusun untuk mengkoneksikan antar masjid\n takmir dan jamaah   \n\n\n\n
+    Geser layar Anda ke samping kiri</string>
+
+    <string name="slide_2_title">Masjid</string>
+    <string name="slide_2_desc">Dengan fitur ini, sebagai takmir, Anda dapat mengabarkan setiap informasi dan kegiatan Masjid Anda  \n\n\n\n
+    Geser atau klik tulisan LANJUT  \ndi pojok kanan bawah</string>
+
+    <string name="slide_3_title">Event</string>
+    <string name="slide_3_desc">Dari Fitur ini, Anda dapat mengetahui informasi dan event-event ke-Islaman yang ada di sekitar Anda</string>
+
+    <string name="slide_4_title">Kajian</string>
+    <string name="slide_4_desc">Dengan fitur ini, Anda dapat menyimak dan mendapatkan materi kajian dari para Asatidz</string>
+
+    <string name="slide_5_title">Video</string>
+    <string name="slide_5_desc">Fitur ini menghadirkan aneka video rekaman kajian, atau video informasi lainnya</string>
+
+    <string name="play_again_desc">Untuk melihat slider penjelasan awal silahkan pergi ke Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Jalankan Lagi</string>
+
+    <!-- Text Bottom Navigation Bar di Halaman Utama -->
+    <string name="title_home">home</string>
+    <string name="title_video">kajian</string>
+    <string name="title_materi">materi</string>
+    <string name="title_event">event</string>
+    <string name="title_profile">profil</string>
+</resources>

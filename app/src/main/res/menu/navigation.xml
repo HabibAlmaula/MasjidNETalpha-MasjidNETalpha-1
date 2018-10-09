@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/nav_video"
+        android:icon="@drawable/ic_video"
+        android:title="@string/title_video" />
+
+    <item
+        android:id="@+id/nav_materi"
+        android:icon="@drawable/round_library_books_white_36"
+        android:title="@string/title_materi" />
+
+    <item
+        android:id="@+id/nav_event"
+        android:icon="@drawable/ic_event_bottom"
+        android:title="@string/title_event" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person_white"
+        android:title="@string/title_profile" />
+
+</menu>

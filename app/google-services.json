@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "338476048650",
+    "firebase_url": "https://fir-maasjidnet.firebaseio.com",
+    "project_id": "fir-maasjidnet",
+    "storage_bucket": "fir-maasjidnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338476048650:android:f2a7a4a50ad3ba06",
+        "android_client_info": {
+          "package_name": "com.rawzadigital.www.masjidnetalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338476048650-361tep2u2o9ikbnkrt6ejnckl8pm95rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rawzadigital.www.masjidnetalpha",
+            "certificate_hash": "7565dbffeab94ebbec8dbda63befc59d6141fc17"
+          }
+        },
+        {
+          "client_id": "338476048650-vdn5o324lgjgt4m8r761dr2i6dv3me3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4HgwL4udJIEBRhHrw_rFpChNQkXiQaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338476048650-vdn5o324lgjgt4m8r761dr2i6dv3me3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
